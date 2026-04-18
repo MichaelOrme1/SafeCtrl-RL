@@ -12,10 +12,6 @@ SafeCtrl-RL dynamically adjusts the model's safety and coherence via prompt opti
 * **Zero-Retraining:** Achieves unlearning effects without modifying the LLM's core parameters.
 * **Safety & Coherence Optimized:** Uses a Reinforcement Learning (RL) agent to select strategies that balance safety against output quality.
 
-  
-![Dynasafe Results](avg_performance.png)
-
-
 ## 📁 Repository Structure
 
 | Directory | Purpose | Key Contents | Dependencies/Usage |
